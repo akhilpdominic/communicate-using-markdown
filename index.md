@@ -5,7 +5,7 @@
 ##### Creating H5 header
 ###### Creating H6 header
 
-![Image of cat]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpvdv2eovxh9ob6Se-ZQSTwLAxP3DVK9E_CHbPLK29tw&s
+![Image of cat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpvdv2eovxh9ob6Se-ZQSTwLAxP3DVK9E_CHbPLK29tw&s)
 
 
 ```
