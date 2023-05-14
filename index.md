@@ -10,8 +10,8 @@
 
 ```
 $ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+Initialized empty Git repository in /Users/akhilpdominic/Desktop/skills-communicate-using-markdown/.git/
 ```
-- [ ] Outline my portfolio
-- [ ] Network with some gigs
-- [ ] Build some interesting projects
+- [ ] get masters
+- [ ] Learn AI
+- [ ] Build some cool projects
